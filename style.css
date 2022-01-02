@@ -147,3 +147,42 @@ nav .nav-right a > i{
 .container .left-panel ul li i.fa-hands-helping{
     color:indianred;
 }
+
+.container .left-panel .footer-links{
+    padding:5px 1rem;
+}
+
+.container .left-panel .footer-links a{
+    text-decoration: none;
+    color:#333;
+    font-size:12px;
+}
+
+.middle-panel{
+    flex:1;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.middle-panel .story-section{
+    display:flex;
+    padding:1rem;
+}
+
+.middle-panel .story-section .story{
+    width:120px;
+    height:200px;
+    border-radius: 10px;
+    position: relative;
+    overflow:hidden;
+    cursor: pointer;
+    margin:0px 5px;
+    box-shadow: 0 0 5px 5px #ddd;
+    background:#fff;
+}
+
+.middle-panel .story-section .story > img{
+    height:100%;
+    transition:.3s ease-in;
+}
