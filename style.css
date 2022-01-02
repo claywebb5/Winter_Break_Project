@@ -68,3 +68,27 @@ nav .nav-middle a.active::after{
 nav .nav-middle a > i{
     font-size: 25px;
 }
+nav .nav-right .profile, .container .left-panel .profile{
+    background: url('./images/me.jpg');
+    height:30px;
+    width:30px;
+    background-size: cover;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+nav .nav-right a{
+    text-decoration: none;
+    color:#333;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    background:#eee;
+    display:grid;
+    place-items: center;
+    margin-left:1rem;
+}
+
+nav .nav-right a > i{
+    font-size:18px;
+}
