@@ -92,3 +92,29 @@ nav .nav-right a{
 nav .nav-right a > i{
     font-size:18px;
 }
+
+.container{
+    background:#eee;
+    display:flex;
+}
+
+.container .left-panel, .container .right-panel{
+    position: sticky;
+    top:70px;
+    width:250px;
+    height:calc(100vh - 70px);
+}
+
+.container .left-panel ul{
+    padding:10px 0px;
+}
+
+.container .left-panel ul li{
+    list-style: none;
+    display: flex;
+    padding:.7rem 1rem;
+    align-items: center;
+    transition: .3s;
+    border-radius: 5px;
+    cursor: pointer;
+}
