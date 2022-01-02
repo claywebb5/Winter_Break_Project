@@ -1,4 +1,4 @@
-logo.png -> https://www.flaticon.com/free-icon/event_980214
+logo.jpg -> https://st2.depositphotos.com/3867453/10724/v/450/depositphotos_107248904-stock-illustration-letter-c-logo-icon-design.jpg
 flowers.jpg -> https://unsplash.com/photos/hQjOHS-m3wI
 herbs.jpg -> https://unsplash.com/photos/JBNd7NZSSBQ
 mountains.jpg -> https://unsplash.com/photos/LGaWh1Ff4qo
@@ -6,5 +6,6 @@ girl.jpg -> https://unsplash.com/photos/8hahNyw5EtU
 boy.jpg -> https://unsplash.com/photos/39rOgBwNjXo
 shoes.jpg -> https://unsplash.com/photos/wH63OABrR4E
 dp.jpg -> https://unsplash.com/photos/SE4Xc1WvIkU
+me.jpg -> https://media-exp1.licdn.com/dms/image/C4E03AQEgrRCQKXVyZg/profile-displayphoto-shrink_200_200/0/1631847367862?e=1644451200&v=beta&t=wJjFNZql334AwwnKc-sfpnLnSd33PBxCek6sLEHmoAw
 girl_with_light.jpg -> https://unsplash.com/photos/xE87C_OvVO4
 model.jpg -> https://unsplash.com/photos/mEZ3PoFGs_k
