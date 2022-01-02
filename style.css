@@ -118,3 +118,32 @@ nav .nav-right a > i{
     border-radius: 5px;
     cursor: pointer;
 }
+
+.container .left-panel ul li:hover{
+    background:#ddd;
+}
+
+.container .left-panel ul li > p{
+    margin-left: 10px;
+}
+
+.container .left-panel ul li > i{
+    font-size:20px;
+    color:slateblue;
+}
+
+.container .left-panel ul li > i.fa-calendar-week{
+    color:tomato;
+}
+
+.container .left-panel ul li i.fa-briefcase{
+    color:green;
+}
+
+.container .left-panel ul li i.fa-star{
+    color:yellowgreen;
+}
+
+.container .left-panel ul li i.fa-hands-helping{
+    color:indianred;
+}
