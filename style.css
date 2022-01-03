@@ -218,16 +218,17 @@ nav .nav-right a > i{
 
 .middle-panel .story-section .story.create .dp-image{
     height:80%;
-    overflow:hidden;
+
 }
 
 .middle-panel .story-section .story.create .dp-image img{
-    width:100%;
+    width: 100%;
+    height: 100%;
 }
 
 .middle-panel .story-section .story.create .dp-container{
     top:70%;
-    left:50%;
+    right: 100%;
     transform: translateX(-50%);
     display:grid;
     place-items: center;
@@ -377,7 +378,8 @@ nav .nav-right a > i{
 
 .right-panel .pages-section .page > .dp > img,
 .right-panel .friends-section .friend > .dp > img{
-    width:100%;
+    width:40px;
+    height: 40px;
 }
 
 .right-panel .pages-section .name, .right-panel .friends-section .name{
